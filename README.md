@@ -15,9 +15,9 @@ Usaremos utilizar dois de modelos de regressão do [Scikit-learn](https://scikit
 Para aplicação mais próxima da realidade, o conjunto de dados será particionado em três partes - treino, validação e teste.
 E realizar todas estapas necessárias com os dados de treino e validação:
 - análise exploratória dos dados;
-- tratamento dos dados;
-- separação dos dados,
-- avaliação do modelo.
+- tratamento dos dados
+- separação dos dados
+- avaliação do modelo
 
 Por fim, iremos aplicar o modelo que apresentou melhor _coeficiente de determinação_ e, realizar as predições com os dados de teste.
 
