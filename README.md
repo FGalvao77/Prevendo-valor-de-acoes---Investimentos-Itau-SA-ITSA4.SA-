@@ -10,7 +10,7 @@ Criar um modelo de predição para estimar valores de ações. Nesse caso, as a�
 Usaremos utilizar dois de modelos de regressão do [Scikit-learn](https://scikit-learn.org/stable/index.html). São eles:
 - uma função simples de regressão linear, o [LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html?highlight=linear#sklearn.linear_model.LinearRegression) e,
 - uma função de rede neural, o [MLPRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html?highlight=mlp#sklearn.neural_network.MLPRegressor).
- - nessa função específica iremos ajustar os hiperparâmetros e encontrar os melhores ajustes.
+  - nessa função específica iremos ajustar os hiperparâmetros e encontrar os melhores ajustes.
 
 Para aplicação mais próxima da realidade, o conjunto de dados será particionado em três partes - treino, validação e teste.
 E realizar todas estapas necessárias com os dados de treino e validação:
