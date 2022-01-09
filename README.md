@@ -13,7 +13,7 @@ Usaremos utilizar dois de modelos de regressão do [Scikit-learn](https://scikit
   - nessa função específica iremos ajustar os hiperparâmetros e encontrar os melhores ajustes.
 
 Para aplicação mais próxima da realidade, o conjunto de dados será particionado em três partes - treino, validação e teste.
-E realizar todas estapas necessárias com os dados de treino e validação:
+E realizar todas etapas necessárias com os dados de treino e validação:
 - análise exploratória dos dados;
 - tratamento dos dados
 - separação dos dados
